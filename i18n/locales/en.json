@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "upload": "Upload",
+    "download": "Download"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "aiTutor": "AI Tutor",
+    "subjects": "Subjects",
+    "upload": "Upload",
+    "library": "Library",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signInWithGoogle": "Sign in with Google",
+    "signOut": "Sign Out",
+    "welcome": "Welcome",
+    "pleaseSignIn": "Please sign in to continue"
+  },
+  "aiTutor": {
+    "title": "AI Tutor",
+    "askQuestion": "Ask me anything...",
+    "voiceInput": "Voice Input",
+    "textInput": "Text Input",
+    "listening": "Listening...",
+    "processing": "Processing...",
+    "speakAnswer": "Speak Answer",
+    "newChat": "New Chat",
+    "chatHistory": "Chat History"
+  },
+  "subjects": {
+    "title": "Subjects",
+    "mathematics": "Mathematics",
+    "science": "Science",
+    "languages": "Languages",
+    "history": "History",
+    "geography": "Geography",
+    "coding": "Coding",
+    "ai": "Artificial Intelligence",
+    "selectSubject": "Select a subject to start learning"
+  },
+  "upload": {
+    "title": "Upload Documents",
+    "dragDrop": "Drag and drop files here, or click to select",
+    "supportedFormats": "Supported formats: PDF, DOC, DOCX, TXT",
+    "maxSize": "Maximum file size: 10MB",
+    "processing": "Processing document...",
+    "success": "Document uploaded successfully",
+    "error": "Error uploading document"
+  },
+  "library": {
+    "title": "Library",
+    "searchLibrary": "Search library...",
+    "recentDocuments": "Recent Documents",
+    "categories": "Categories",
+    "noDocuments": "No documents found"
+  },
+  "analytics": {
+    "title": "Learning Analytics",
+    "totalSessions": "Total Sessions",
+    "totalTime": "Total Time",
+    "favoriteSubject": "Favorite Subject",
+    "weeklyProgress": "Weekly Progress",
+    "subjectBreakdown": "Subject Breakdown"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "language": "Language",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "account": "Account"
+  }
+}
