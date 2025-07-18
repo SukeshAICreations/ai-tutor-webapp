@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu",
+    "success": "Mafanikio",
+    "cancel": "Ghairi",
+    "save": "Hifadhi",
+    "delete": "Futa",
+    "edit": "Hariri",
+    "close": "Funga",
+    "back": "Rudi",
+    "next": "Ifuatayo",
+    "previous": "Iliyotangulia",
+    "search": "Tafuta",
+    "upload": "Pakia",
+    "download": "Pakua"
+  },
+  "navigation": {
+    "dashboard": "Dashibodi",
+    "aiTutor": "Mwalimu wa AI",
+    "subjects": "Masomo",
+    "upload": "Pakia",
+    "library": "Maktaba",
+    "analytics": "Uchambuzi",
+    "settings": "Mipangilio",
+    "signOut": "Toka"
+  },
+  "auth": {
+    "signIn": "Ingia",
+    "signInWithGoogle": "Ingia kwa Google",
+    "signOut": "Toka",
+    "welcome": "Karibu",
+    "pleaseSignIn": "Tafadhali ingia ili kuendelea"
+  },
+  "aiTutor": {
+    "title": "Mwalimu wa AI",
+    "askQuestion": "Niulize chochote...",
+    "voiceInput": "Ingizo la Sauti",
+    "textInput": "Ingizo la Maandishi",
+    "listening": "Ninasikiliza...",
+    "processing": "Ninachakata...",
+    "speakAnswer": "Sema Jibu",
+    "newChat": "Mazungumzo Mapya",
+    "chatHistory": "Historia ya Mazungumzo"
+  },
+  "subjects": {
+    "title": "Masomo",
+    "mathematics": "Hisabati",
+    "science": "Sayansi",
+    "languages": "Lugha",
+    "history": "Historia",
+    "geography": "Jiografia",
+    "coding": "Programu",
+    "ai": "Akili Bandia",
+    "selectSubject": "Chagua somo ili kuanza kujifunza"
+  },
+  "upload": {
+    "title": "Pakia Hati",
+    "dragDrop": "Buruta na udondoshe faili hapa, au bofya kuchagua",
+    "supportedFormats": "Miundo inayotumika: PDF, DOC, DOCX, TXT",
+    "maxSize": "Ukubwa wa juu wa faili: 10MB",
+    "processing": "Ninachakata hati...",
+    "success": "Hati imepakiwa kwa mafanikio",
+    "error": "Hitilafu katika kupakia hati"
+  },
+  "library": {
+    "title": "Maktaba",
+    "searchLibrary": "Tafuta katika maktaba...",
+    "recentDocuments": "Hati za Hivi Karibuni",
+    "categories": "Makundi",
+    "noDocuments": "Hakuna hati zilizopatikana"
+  },
+  "analytics": {
+    "title": "Uchambuzi wa Kujifunza",
+    "totalSessions": "Jumla ya Vipindi",
+    "totalTime": "Muda Wote",
+    "favoriteSubject": "Somo la Kupenda",
+    "weeklyProgress": "Maendeleo ya Kila Wiki",
+    "subjectBreakdown": "Mgawanyo wa Masomo"
+  },
+  "settings": {
+    "title": "Mipangilio",
+    "profile": "Wasifu",
+    "language": "Lugha",
+    "notifications": "Arifa",
+    "privacy": "Faragha",
+    "account": "Akaunti"
+  }
+}
