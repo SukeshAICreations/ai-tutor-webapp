@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "search": "بحث",
+    "upload": "رفع",
+    "download": "تحميل"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "aiTutor": "المعلم الذكي",
+    "subjects": "المواد",
+    "upload": "رفع",
+    "library": "المكتبة",
+    "analytics": "التحليلات",
+    "settings": "الإعدادات",
+    "signOut": "تسجيل الخروج"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signInWithGoogle": "تسجيل الدخول بجوجل",
+    "signOut": "تسجيل الخروج",
+    "welcome": "مرحباً",
+    "pleaseSignIn": "يرجى تسجيل الدخول للمتابعة"
+  },
+  "aiTutor": {
+    "title": "المعلم الذكي",
+    "askQuestion": "اسألني أي شيء...",
+    "voiceInput": "إدخال صوتي",
+    "textInput": "إدخال نصي",
+    "listening": "أستمع...",
+    "processing": "معالجة...",
+    "speakAnswer": "نطق الإجابة",
+    "newChat": "محادثة جديدة",
+    "chatHistory": "تاريخ المحادثات"
+  },
+  "subjects": {
+    "title": "المواد",
+    "mathematics": "الرياضيات",
+    "science": "العلوم",
+    "languages": "اللغات",
+    "history": "التاريخ",
+    "geography": "الجغرافيا",
+    "coding": "البرمجة",
+    "ai": "الذكاء الاصطناعي",
+    "selectSubject": "اختر مادة لبدء التعلم"
+  },
+  "upload": {
+    "title": "رفع المستندات",
+    "dragDrop": "اسحب وأفلت الملفات هنا، أو انقر للاختيار",
+    "supportedFormats": "الصيغ المدعومة: PDF, DOC, DOCX, TXT",
+    "maxSize": "الحد الأقصى لحجم الملف: 10 ميجابايت",
+    "processing": "معالجة المستند...",
+    "success": "تم رفع المستند بنجاح",
+    "error": "خطأ في رفع المستند"
+  },
+  "library": {
+    "title": "المكتبة",
+    "searchLibrary": "البحث في المكتبة...",
+    "recentDocuments": "المستندات الحديثة",
+    "categories": "الفئات",
+    "noDocuments": "لم يتم العثور على مستندات"
+  },
+  "analytics": {
+    "title": "تحليلات التعلم",
+    "totalSessions": "إجمالي الجلسات",
+    "totalTime": "إجمالي الوقت",
+    "favoriteSubject": "المادة المفضلة",
+    "weeklyProgress": "التقدم الأسبوعي",
+    "subjectBreakdown": "تفصيل المواد"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "language": "اللغة",
+    "notifications": "الإشعارات",
+    "privacy": "الخصوصية",
+    "account": "الحساب"
+  }
+}
