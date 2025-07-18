@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "upload": "Subir",
+    "download": "Descargar"
+  },
+  "navigation": {
+    "dashboard": "Panel",
+    "aiTutor": "Tutor IA",
+    "subjects": "Materias",
+    "upload": "Subir",
+    "library": "Biblioteca",
+    "analytics": "Análisis",
+    "settings": "Configuración",
+    "signOut": "Cerrar Sesión"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signInWithGoogle": "Iniciar sesión con Google",
+    "signOut": "Cerrar Sesión",
+    "welcome": "Bienvenido",
+    "pleaseSignIn": "Por favor inicia sesión para continuar"
+  },
+  "aiTutor": {
+    "title": "Tutor IA",
+    "askQuestion": "Pregúntame cualquier cosa...",
+    "voiceInput": "Entrada de Voz",
+    "textInput": "Entrada de Texto",
+    "listening": "Escuchando...",
+    "processing": "Procesando...",
+    "speakAnswer": "Hablar Respuesta",
+    "newChat": "Nueva Conversación",
+    "chatHistory": "Historial de Chat"
+  },
+  "subjects": {
+    "title": "Materias",
+    "mathematics": "Matemáticas",
+    "science": "Ciencias",
+    "languages": "Idiomas",
+    "history": "Historia",
+    "geography": "Geografía",
+    "coding": "Programación",
+    "ai": "Inteligencia Artificial",
+    "selectSubject": "Selecciona una materia para comenzar a aprender"
+  },
+  "upload": {
+    "title": "Subir Documentos",
+    "dragDrop": "Arrastra y suelta archivos aquí, o haz clic para seleccionar",
+    "supportedFormats": "Formatos soportados: PDF, DOC, DOCX, TXT",
+    "maxSize": "Tamaño máximo de archivo: 10MB",
+    "processing": "Procesando documento...",
+    "success": "Documento subido exitosamente",
+    "error": "Error al subir documento"
+  },
+  "library": {
+    "title": "Biblioteca",
+    "searchLibrary": "Buscar en biblioteca...",
+    "recentDocuments": "Documentos Recientes",
+    "categories": "Categorías",
+    "noDocuments": "No se encontraron documentos"
+  },
+  "analytics": {
+    "title": "Análisis de Aprendizaje",
+    "totalSessions": "Sesiones Totales",
+    "totalTime": "Tiempo Total",
+    "favoriteSubject": "Materia Favorita",
+    "weeklyProgress": "Progreso Semanal",
+    "subjectBreakdown": "Desglose por Materia"
+  },
+  "settings": {
+    "title": "Configuración",
+    "profile": "Perfil",
+    "language": "Idioma",
+    "notifications": "Notificaciones",
+    "privacy": "Privacidad",
+    "account": "Cuenta"
+  }
+}
