@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一个",
+    "previous": "上一个",
+    "search": "搜索",
+    "upload": "上传",
+    "download": "下载"
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "aiTutor": "AI导师",
+    "subjects": "科目",
+    "upload": "上传",
+    "library": "图书馆",
+    "analytics": "分析",
+    "settings": "设置",
+    "signOut": "退出登录"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signInWithGoogle": "使用Google登录",
+    "signOut": "退出登录",
+    "welcome": "欢迎",
+    "pleaseSignIn": "请登录以继续"
+  },
+  "aiTutor": {
+    "title": "AI导师",
+    "askQuestion": "问我任何问题...",
+    "voiceInput": "语音输入",
+    "textInput": "文本输入",
+    "listening": "正在听...",
+    "processing": "处理中...",
+    "speakAnswer": "朗读答案",
+    "newChat": "新对话",
+    "chatHistory": "聊天历史"
+  },
+  "subjects": {
+    "title": "科目",
+    "mathematics": "数学",
+    "science": "科学",
+    "languages": "语言",
+    "history": "历史",
+    "geography": "地理",
+    "coding": "编程",
+    "ai": "人工智能",
+    "selectSubject": "选择一个科目开始学习"
+  },
+  "upload": {
+    "title": "上传文档",
+    "dragDrop": "拖拽文件到这里，或点击选择",
+    "supportedFormats": "支持的格式：PDF、DOC、DOCX、TXT",
+    "maxSize": "最大文件大小：10MB",
+    "processing": "处理文档中...",
+    "success": "文档上传成功",
+    "error": "文档上传错误"
+  },
+  "library": {
+    "title": "图书馆",
+    "searchLibrary": "搜索图书馆...",
+    "recentDocuments": "最近文档",
+    "categories": "分类",
+    "noDocuments": "未找到文档"
+  },
+  "analytics": {
+    "title": "学习分析",
+    "totalSessions": "总会话数",
+    "totalTime": "总时间",
+    "favoriteSubject": "最喜欢的科目",
+    "weeklyProgress": "每周进度",
+    "subjectBreakdown": "科目分解"
+  },
+  "settings": {
+    "title": "设置",
+    "profile": "个人资料",
+    "language": "语言",
+    "notifications": "通知",
+    "privacy": "隐私",
+    "account": "账户"
+  }
+}
