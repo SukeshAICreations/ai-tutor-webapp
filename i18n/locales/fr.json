@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "upload": "Télécharger",
+    "download": "Télécharger"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "aiTutor": "Tuteur IA",
+    "subjects": "Matières",
+    "upload": "Télécharger",
+    "library": "Bibliothèque",
+    "analytics": "Analyses",
+    "settings": "Paramètres",
+    "signOut": "Se déconnecter"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signInWithGoogle": "Se connecter avec Google",
+    "signOut": "Se déconnecter",
+    "welcome": "Bienvenue",
+    "pleaseSignIn": "Veuillez vous connecter pour continuer"
+  },
+  "aiTutor": {
+    "title": "Tuteur IA",
+    "askQuestion": "Demandez-moi n'importe quoi...",
+    "voiceInput": "Entrée vocale",
+    "textInput": "Entrée de texte",
+    "listening": "Écoute...",
+    "processing": "Traitement...",
+    "speakAnswer": "Parler la réponse",
+    "newChat": "Nouvelle conversation",
+    "chatHistory": "Historique des conversations"
+  },
+  "subjects": {
+    "title": "Matières",
+    "mathematics": "Mathématiques",
+    "science": "Sciences",
+    "languages": "Langues",
+    "history": "Histoire",
+    "geography": "Géographie",
+    "coding": "Programmation",
+    "ai": "Intelligence Artificielle",
+    "selectSubject": "Sélectionnez une matière pour commencer à apprendre"
+  },
+  "upload": {
+    "title": "Télécharger des documents",
+    "dragDrop": "Glissez-déposez les fichiers ici, ou cliquez pour sélectionner",
+    "supportedFormats": "Formats supportés : PDF, DOC, DOCX, TXT",
+    "maxSize": "Taille maximale du fichier : 10MB",
+    "processing": "Traitement du document...",
+    "success": "Document téléchargé avec succès",
+    "error": "Erreur lors du téléchargement du document"
+  },
+  "library": {
+    "title": "Bibliothèque",
+    "searchLibrary": "Rechercher dans la bibliothèque...",
+    "recentDocuments": "Documents récents",
+    "categories": "Catégories",
+    "noDocuments": "Aucun document trouvé"
+  },
+  "analytics": {
+    "title": "Analyses d'apprentissage",
+    "totalSessions": "Sessions totales",
+    "totalTime": "Temps total",
+    "favoriteSubject": "Matière favorite",
+    "weeklyProgress": "Progrès hebdomadaire",
+    "subjectBreakdown": "Répartition par matière"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "profile": "Profil",
+    "language": "Langue",
+    "notifications": "Notifications",
+    "privacy": "Confidentialité",
+    "account": "Compte"
+  }
+}
